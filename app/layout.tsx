@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'PromptForge Pro',
   description: 'Профессиональный генератор промптов для AI',
